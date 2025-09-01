@@ -3,8 +3,8 @@
 #include <Adafruit_Sensor.h>
 
 // Replace with your network credentials
-const char* ssid = "wifi-ssid"; //change this to your wifi
-const char* password = "yourpassword"; //change this to your password
+const char* ssid = "namewifi"; //change this to your wifi
+const char* password = "asdesired"; //change this to your password
 
 // DHT11 Sensor setup
 #define DHTPIN 4          // Pin where the DHT11 is connected
